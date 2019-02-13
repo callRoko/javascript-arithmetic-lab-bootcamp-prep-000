@@ -1,2 +1,4 @@
-a = 
-b = 
+var a, b
+function addAAndB() {
+  return add(a,b)
+}
